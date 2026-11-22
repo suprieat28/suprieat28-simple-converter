@@ -8,3 +8,5 @@ to get started, open [google apps script](https://script.google.com/) and create
 once all the code has been added, open **project settings** and configure everything required by the project. go to **deploy**, select **new deployment**, choose **web app**, set the execution permissions to your preference, and deploy the project. if the application uses google sheets, make sure to connect the correct spreadsheet and update any required spreadsheet ids or configuration values.
 
 after deployment, copy your web app url and open it in your browser. your application should now be ready to use. if something does not work as expected, double check that all files have been copied correctly, the deployment permissions are configured properly, and the latest version of the project has been deployed.
+
+extra notes: theres only 2 main language which bahasa indonesia and english.
